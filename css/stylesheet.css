@@ -88,7 +88,7 @@ html, body {
 
 .parallax-section {
   height: 50vh;                 
-  background: url("/image/pexels-albinberlin-919073.jpg")fixed no-repeat;
+  background: url("../image/pexels-albinberlin-919073.jpg")fixed no-repeat;
   background-size: cover; 
 }
 .card-img-top {
@@ -136,7 +136,7 @@ html, body {
 }
 .parallax-section2 {
   height: 50vh;                 
-  background: url("/image/pexels-egeardaphotos-2148533277-30678546.jpg")fixed no-repeat;
+  background: url("../image/pexels-egeardaphotos-2148533277-30678546.jpg")fixed no-repeat;
   background-size: cover;
   background-position: 40% 40% ; 
 }
